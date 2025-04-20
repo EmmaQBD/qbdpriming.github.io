@@ -6,39 +6,39 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/ep/quep5.
 			//The prime categories.
 			primeCats :  [
 				{
-					name : 'Black people', //Will appear in the data.
+					name : 'Ugly', //Will appear in the data.
 					//An array of all media objects for this category.
 					mediaArray : [
-    				    {image : 'b01.jpg'}, 
-    					{image : 'b02.jpg'}, 
-    					{image : 'b03.jpg'}, 
-    					{image : 'b04.jpg'}, 
-    					{image : 'b05.jpg'}, 
-    					{image : 'b06.jpg'}, 
-    					{image : 'b07.jpg'}, 
-    					{image : 'b08.jpg'}, 
-    					{image : 'b09.jpg'}, 
-    					{image : 'b10.jpg'}, 
-    					{image : 'b11.jpg'}, 
-    					{image : 'b12.jpg'}
+    				    {word : 'horrible'}, 
+    					{word : 'shocking'}, 
+    					{word : 'disgusting'}, 
+    					{word : 'disagreeable'}, 
+    					{word : 'nasty'}, 
+    					{word : 'dangerous'}, 
+    					{word : 'awful'}, 
+    					{word : 'displeasing'}, 
+    					{word : 'threatening'}, 
+    					{word : 'repellent'}, 
+    					{word : 'unpleasant'}, 
+    					{word : 'ominous'}
 				    ]
 				}, 
 				{
-					name : 'White people', //Will appear in the data.
+					name : 'Beautiful', //Will appear in the data.
 					//An array of all media objects for this category.
 					mediaArray : [
-    					{image : 'w01.jpg'}, 
-    					{image : 'w02.jpg'}, 
-    					{image : 'w03.jpg'}, 
-    					{image : 'w04.jpg'}, 
-    					{image : 'w05.jpg'}, 
-    					{image : 'w06.jpg'}, 
-    					{image : 'w07.jpg'}, 
-    					{image : 'w08.jpg'}, 
-    					{image : 'w09.jpg'}, 
-    					{image : 'w10.jpg'}, 
-    					{image : 'w11.jpg'}, 
-    					{image : 'w12.jpg'}
+    					{word : 'magnificent'}, 
+    					{word : 'appealing'}, 
+    					{word : 'charming'}, 
+    					{word : 'pleasing'}, 
+    					{word : 'engaging'}, 
+    					{word : 'pretty'}, 
+    					{word : 'enjoyable'}, 
+    					{word : 'delightful'}, 
+    					{word : 'lovely'}, 
+    					{word : 'cheerful'}, 
+    					{word : 'welcoming'}, 
+    					{word : 'agreeable'}
     				]
 				}
 			],	
